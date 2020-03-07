@@ -4,7 +4,7 @@ GEM
     amq-protocol (2.3.0)
     bunny (2.13.0)
       amq-protocol (~> 2.3, >= 2.3.0)
-    rake (12.3.2)
+    rake (12.3.3)
 
 PLATFORMS
   ruby
